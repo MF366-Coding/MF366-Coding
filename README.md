@@ -11,6 +11,17 @@ You can find me on...
 * [YouTube](https://youtube.com/@mf_366)
 * [My Discord Server](https://discord.gg/pTfkr24p8M)
 
+### About my YouTube channel...
+My microphone makes me sound really young and awful...
+
+### Music
+I love music.
+
+* Rock
+* Dance
+* Videogames (yes, you boomers, videogame music is not always bad)
+* and much more...
+
 ### Gaming
 So, let's talk about gaming...
 
