@@ -10,6 +10,7 @@ My Github name is MF366-Coding but feel free to call me MF366 (my usual nickname
 You can find me on...
 * [YouTube](https://youtube.com/@mf_366)
 * [My Discord Server](https://discord.gg/pTfkr24p8M)
+* [Steam Community](https://steamcommunity.com/profiles/76561199465872463) 
 
 ### About my YouTube channel... 🧐
 My microphone makes me sound really young and awful...
