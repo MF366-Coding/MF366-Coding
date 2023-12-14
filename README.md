@@ -2,9 +2,9 @@
 My GitHub name is [MF366-Coding](https://mf366-coding.github.io) but feel free to call me MF366 (my usual nickname)...
 
 ### Interesting part: let's go! 😅
-* 👨 Pronouns: he/him
-* 👨‍💻 Programming Languages I Know: [Python](https://python.org)
-* 🤔 Programming Languages I'm Learning: Lua
+* 👨 __Pronouns:__ he/him
+* 👨‍💻 __Programming Languages I Know:__ [Python](https://python.org)
+* 🤔 __Programming Languages I'm Learning:__ Lua and **C#**
 
 ### I'm online, ofc 😎
 You can find me on...
@@ -25,11 +25,11 @@ I love music. 🎶
 ### Gaming 🎮
 So, let's talk about gaming...
 
-I'm a crazy Undertale & Deltarune fan, currently [modding Deltarune with Kristal](https://github.com/MF366-Coding/DeltaruneKristalMods)...
+I'm a crazy Undertale & Deltarune fan. 
+
+I also play Super Mario 64, Doom 64, Among Us and many other games. 
 
 I also play mods and fangames made by other people...
-
-And no, Undertale and Deltarune aren't the only games I play LMAO...
   
 <!--
 **MF366-Coding/MF366-Coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
