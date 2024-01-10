@@ -6,9 +6,9 @@ My GitHub name is [MF366-Coding](https://mf366-coding.github.io) but feel free t
 * 👨‍💻 __Programming Languages I Know:__ [Python](https://python.org) and **GML** (GameMaker Studio 2)
 * 🤔 __Programming Languages I'm Learning:__ Lua and **C#**
 
-Please note the following graph is highly influenced by my Supaplex Archive, which contains executables and C files that aren't mine.
+Please note the following graph is highly influenced by my Supaplex Archive, which contains executables and C files that aren't mine. My website also influenciates this graph although that part is mine.
 
-<img alt="stats" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MF366-Coding&layout=compact&langs_count=7&theme=tokyonight">
+<img alt="stats" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MF366-Coding&layout=compact&langs_count=10&theme=tokyonight">
   
 ### I'm online, ofc 😎
 You can find me on...
