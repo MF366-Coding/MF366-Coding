@@ -3,14 +3,19 @@ My GitHub name is [MF366-Coding](https://mf366-coding.github.io) but feel free t
 
 ### Interesting part: let's go! 😅
 * 👨 __Pronouns:__ he/him
-* 👨‍💻 __Programming Languages I Know:__ [Python](https://python.org)
+* 👨‍💻 __Programming Languages I Know:__ [Python](https://python.org) and **GML** (GameMaker Studio 2)
 * 🤔 __Programming Languages I'm Learning:__ Lua and **C#**
 
+Please note the following graph is highly influenced by my Supaplex Archive, which contains executables and C files that aren't mine.
+
+<img alt="stats" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MF366-Coding&layout=compact&langs_count=7&theme=tokyonight">
+  
 ### I'm online, ofc 😎
 You can find me on...
 * [YouTube](https://youtube.com/@mf_366)
 * [My Discord Server](https://discord.gg/pTfkr24p8M)
-* [Steam Community](https://steamcommunity.com/profiles/76561199465872463) 
+* [Steam Community](https://steamcommunity.com/profiles/76561199465872463)
+* And now, also on [Twitch](https://twitch.tv/real_mf366)
 
 <a href="https://www.buymeacoffee.com/mf366"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=mf366&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
 
@@ -25,11 +30,13 @@ I love music. 🎶
 ### Gaming 🎮
 So, let's talk about gaming...
 
-I'm a crazy Undertale & Deltarune fan. 
+I'm a hell of a Doom fan. 
 
-I also play Super Mario 64, Doom 64, Among Us and many other games. 
+I also play Super Mario 64, Undertale, Deltarune, Among Us and many other games. 
 
 I also play mods and fangames made by other people...
+
+(And in Doom's case, WADs too.)
   
 <!--
 **MF366-Coding/MF366-Coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
