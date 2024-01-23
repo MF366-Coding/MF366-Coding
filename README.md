@@ -12,7 +12,7 @@ Please note the following graph is highly influenced by my Supaplex Archive, whi
 
 ![MF366-Coding's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MF366-Coding&theme=tokyonight&hide_border=false)
 
-<img alt="stats" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MF366-Coding&layout=compact&langs_count=10&theme=tokyonight">
+![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MF366-Coding&layout=compact&langs_count=10&theme=tokyonight)
   
 ### I'm online, ofc 😎
 You can find me on...
