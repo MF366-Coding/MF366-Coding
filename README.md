@@ -11,9 +11,7 @@ My GitHub name is [MF366-Coding](https://mf366-coding.github.io) but feel free t
 
 ![MF366-Coding's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MF366-Coding&theme=tokyonight&hide_border=false)
 
-![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MF366-Coding&layout=compact&langs_count=10&theme=tokyonight)
-
-Please note the graph above is highly influenced by my Supaplex Archive, which contains executables and C files that aren't mine. My website also influenciates this graph although that part is mine. 
+![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MF366-Coding&layout=compact&langs_count=3&theme=tokyonight)
 
 ### I'm online, ofc 😎
 You can find me on...
