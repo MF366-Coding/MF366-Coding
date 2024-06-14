@@ -40,7 +40,10 @@ I also play Super Mario 64, Undertale, Deltarune, Among Us and many other games.
 I also play mods and fangames made by other people...
 
 (And in Doom's case, WADs too.)
-  
+
+### More cool stuff
+In my profile, I mgiht have some cool stuff but [this guy](https://github.com/norbcodes) also has some good stuff. Check him out too! 
+
 <!--
 **MF366-Coding/MF366-Coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
