@@ -6,9 +6,9 @@ My GitHub name is [MF366-Coding](https://mf366-coding.github.io) but feel free t
 * 👨‍💻 __Programming Languages I Know:__ [Python](https://python.org) and **GML** (GameMaker Studio 2)
 * 🤔 __Programming Languages I'm Learning:__ Lua and **C#**
 * 🔭 **My Main Project:** **WriterClassic** and everything related to it, such as **WPlugZ - CLI**
-* <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/pt.svg" alt="Portugal made Portuguese not Brazil" style="width:35px" title="PORTUGAL!!!!!"></img> **Portuguese**
-* <img src="https://github.com/joypixels/pride-emoji-flags/blob/master/svg/pansexual-flag.svg" alt="iykyk :3" style="width:28px" title="iykyk"></img> **iykyk** :3
-* <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_python.svg" alt="Python dev :)" title="Python dev :)" style="width:35px;height=20px"></img> **Python is AWESOOOOME...** most of the times 
+* <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/pt.svg" alt="Portugal made Portuguese not Brazil" style="width:20px" title="PORTUGAL!!!!!"></img> **Portuguese**
+* <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_python.svg" alt="Python dev :)" title="Python dev :)" style="width:20px;height=20px"></img> **Python is AWESOOOOME...** most of the times 
+* <img src="https://github.com/joypixels/pride-emoji-flags/blob/master/svg/pansexual-flag.svg" alt="iykyk :3" style="width:20px" title="iykyk"></img> **iykyk** :3 
 
 ![MF366-Coding's Stats](https://github-readme-stats.vercel.app/api?username=MF366-Coding&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
 
