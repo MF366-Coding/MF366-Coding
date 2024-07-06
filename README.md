@@ -4,7 +4,7 @@ My GitHub name is [MF366-Coding](https://mf366-coding.github.io) but feel free t
 ### Interesting part: let's go! 😅
 * 👨 __Pronouns:__ he/him
 * 👨‍💻 __Programming Languages I Know:__ [Python](https://python.org) and **GML** (GameMaker Studio 2)
-* 🤔 __Programming Languages I'm Learning:__ Lua and **C#**
+* 🤔 __Programming Languages I want to learn:__ **C++**
 * 🔭 **My Main Project:** **WriterClassic** and everything related to it, such as **WPlugZ - CLI**
 * <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/pt.svg" alt="Portugal made Portuguese not Brazil" style="width:20px" title="PORTUGAL!!!!!"></img> **Portuguese**
 * <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_python.svg" alt="Python dev :)" title="Python dev :)" style="width:20px;height=20px"></img> **Python is AWESOOOOME...** most of the times 
@@ -19,7 +19,7 @@ My GitHub name is [MF366-Coding](https://mf366-coding.github.io) but feel free t
 ### I'm online, ofc 😎
 You can find me on...
 * [YouTube](https://youtube.com/@mf_366)
-* [My Discord Server](https://discord.gg/pTfkr24p8M)
+* [My Discord Server](https://discord.gg/invite/pTfkr24p8M)
 * [Steam Community](https://steamcommunity.com/profiles/76561199465872463)
 * And now, also on [Twitch](https://twitch.tv/real_mf366)
 
@@ -28,17 +28,16 @@ You can find me on...
 ### Music 🎵
 I love music. 🎶
 
-* Rock
-* Dance
-* Videogames (yes, you boomers, videogame music is not always bad)
-* and much more...
+* Metal (from Nu Metal - I love KoRn - to Detah Metal) 
+* Rap (Eminem) 
+* Eletronic (depends on subgenre a lot) 
 
 ### Gaming 🎮
 So, let's talk about gaming...
 
 I'm a hell of a Doom fan. 
 
-I also play Super Mario 64, Undertale, Deltarune, Among Us and many other games. 
+I also play Super Mario 64, Supaplex, Undertale, Deltarune, Among Us and many other games. 
 
 I also play mods and fangames made by other people...
 
