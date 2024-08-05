@@ -1,6 +1,12 @@
 # Oh, hi there! 👋
 My GitHub name is [MF366-Coding](https://mf366-coding.github.io) but feel free to call me MF366 (my usual nickname)...
 
+![MF366-Coding's Stats](https://github-readme-stats.vercel.app/api?username=MF366-Coding&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
+
+![MF366-Coding's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MF366-Coding&theme=tokyonight&hide_border=false)
+
+![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MF366-Coding&layout=compact&langs_count=3&theme=tokyonight)
+
 ### Interesting part: let's go! 😅
 * 👨 __Pronouns:__ he/him
 * 👨‍💻 __Programming Languages I Know:__ [Python](https://python.org) and **GML** (GameMaker Studio 2)
@@ -10,11 +16,7 @@ My GitHub name is [MF366-Coding](https://mf366-coding.github.io) but feel free t
 * <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_python.svg" alt="Python dev :)" title="Python dev :)" style="width:20px;height=20px"></img> **Python is AWESOOOOME...** most of the times 
 * <img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/symbol.svg" alt="iykyk :3" style="width:20px" title="iykyk"></img> **iykyk** :3 
 
-![MF366-Coding's Stats](https://github-readme-stats.vercel.app/api?username=MF366-Coding&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
-
-![MF366-Coding's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MF366-Coding&theme=tokyonight&hide_border=false)
-
-![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MF366-Coding&layout=compact&langs_count=3&theme=tokyonight)
+<a href="https://app.daily.dev/mf366"><img src="https://api.daily.dev/devcards/v2/psZxWT5u6YaQ67P6ILf73.png?type=default&r=9rn" width="356" alt="MF366's Dev Card"/></a>
 
 ### I'm online, ofc 😎
 You can find me on...
