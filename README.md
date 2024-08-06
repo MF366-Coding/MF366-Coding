@@ -30,8 +30,8 @@ You can find me on...
 ### Music 🎵
 I love music. 🎶
 
-* Metal (from Nu Metal - I love KoRn - to Detah Metal) 
-* Rap (Eminem) 
+* Metal (from Nu Metal - I love KoRn - to Death Metal) 
+* Rap (Eminem, 50 Cent, Kendrick Lamar) 
 * Eletronic (depends on subgenre a lot) 
 
 ### Gaming 🎮
@@ -46,7 +46,7 @@ I also play mods and fangames made by other people...
 (And in Doom's case, WADs too.)
 
 ### More cool stuff
-In my profile, I mgiht have some cool stuff but [this guy](https://github.com/norbcodes) also has some good stuff. Check him out too! 
+In my profile, I might have some cool stuff but [this guy](https://github.com/norbcodes) also has some good stuff. Check him out too! 
 
 <!--
 **MF366-Coding/MF366-Coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
