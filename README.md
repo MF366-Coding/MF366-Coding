@@ -14,7 +14,6 @@ My GitHub name is [MF366-Coding](https://mf366-coding.github.io) but feel free t
 * 🔭 **My Main Project:** **WriterClassic** and everything related to it, such as **WPlugZ - CLI**
 * <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/pt.svg" alt="Portugal made Portuguese not Brazil" style="width:20px" title="PORTUGAL!!!!!"></img> **Portuguese**
 * <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_python.svg" alt="Python dev :)" title="Python dev :)" style="width:20px;height=20px"></img> **Python is AWESOOOOME...** most of the times 
-* <img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/symbol.svg" alt="iykyk :3" style="width:20px" title="iykyk"></img> **iykyk** :3 
 
 <a href="https://app.daily.dev/mf366"><img src="https://api.daily.dev/devcards/v2/psZxWT5u6YaQ67P6ILf73.png?type=default&r=9rn" width="356" alt="MF366's Dev Card"/></a>
 
