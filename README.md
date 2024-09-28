@@ -63,12 +63,12 @@ I also play mods and fangames made by other people...
 <img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/Badge_Red.png" alt="My translation service" title="Translation Service" style="width:200px"></img>
 
 ### Badges w/ 2 Colors (No Logo)
-<img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/Badge_Simple_Dark.png" alt="My translation service" title="Translation Service" style="width:200px"></img>
+<img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/Badge_Simple_Dark.png" alt="My translation service" title="Translation Service" style="width:200px"></img> (Dark Mode)
 
-<img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/Badge_Simple_2Colors.png" alt="My translation service" title="Translation Service" style="width:200px"></img>
+<img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/Badge_Simple_2Colors.png" alt="My translation service" title="Translation Service" style="width:200px"></img> (Light Mode)
 
 ### Simple Badge
-<img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/Badge_Simple_Yellow.png" alt="My translation service" title="Translation Service" style="width:200px"></img>
+<img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/Badge_Simple_Yellow.png" alt="My translation service" title="Translation Service" style="width:200px"></img> (Dark Mode)
 
 ## More nerdy stuff 🤓
 In my profile, I might have some cool stuff but [this fella](https://github.com/norbcodes) also has some good stuff. Check them out too! 
