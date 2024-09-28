@@ -1,19 +1,19 @@
 # Hey, didn't see you there! 👋
 You can call me [MF366](https://github.com/MF366-Coding).
 
-# Did you know? 😊
+## Did you know? 😊
 I provide translation services to Portuguese on my Buy Me A Coffee. Scroll to learn more.
 
-<img src="https://github.com/MF366-Coding/MF366-Coding/mf366_badge_no_background.png" alt="My translation service" title="Translation Service" style="width:50px;height=50px"></img>
+<img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/mf366_badge_no_background.png" alt="My translation service" title="Translation Service" style="width:50px;height=50px"></img>
 
-# My Stats 📊
+## My Stats 📊
 ![MF366-Coding's Stats](https://github-readme-stats.vercel.app/api?username=MF366-Coding&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
 
 ![MF366-Coding's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MF366-Coding&theme=tokyonight&hide_border=false)
 
 ![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MF366-Coding&layout=compact&langs_count=3&theme=tokyonight)
 
-# But, really, who am I? 🧐
+## But, really, who am I? 🧐
 * 👨 __Pronouns:__ he/him
 * 👨‍💻 __Programming Languages I Know:__ [Python](https://python.org) and **GML** (GameMaker Studio 2)
 * 🤔 __Programming Languages I want to learn:__ **C++**
@@ -21,10 +21,10 @@ I provide translation services to Portuguese on my Buy Me A Coffee. Scroll to le
 * <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/pt.svg" alt="Portugal made Portuguese not Brazil" style="width:20px" title="PORTUGAL!!!!!"></img> **Portuguese**
 * <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_python.svg" alt="Python dev :)" title="Python dev :)" style="width:20px;height=20px"></img> **Python is awesome** ~~most of the times~~
 
-# I'm on Daily Dev... 💻
-<a href="https://app.daily.dev/mf366"><img src="https://api.daily.dev/devcards/v2/psZxWT5u6YaQ67P6ILf73.png?type=default&r=9rn" width="356" alt="MF366's Dev Card"/></a>
+## I'm on Daily Dev... 💻
+<a href="https://app.daily.dev/mf366"><img src="https://api.daily.dev/devcards/v2/psZxWT5u6YaQ67P6ILf73.png?type=default&r=9rn" width="300" alt="MF366's Dev Card"/></a>
 
-# ...and other places as well 👀
+## ...and other places as well 👀
 You can find me on...
 * [YouTube](https://youtube.com/@mf_366)
 * [My Discord Server](https://discord.gg/invite/pTfkr24p8M)
@@ -34,7 +34,7 @@ You can find me on...
 
 <a href="https://www.buymeacoffee.com/mf366"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=mf366&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
 
-### Music 🎵
+## Music 🎵
 I love music. 🎶
 
 * **Metal** (specially, Nu Metal)
@@ -51,7 +51,7 @@ I also play mods and fangames made by other people...
 
 (And in Doom's case, WADs too.)
 
-### More cool stuff
+### More nerdy stuff 🤓
 In my profile, I might have some cool stuff but [this guy](https://github.com/norbcodes) also has some good stuff. Check him out too! 
 
 <!--
