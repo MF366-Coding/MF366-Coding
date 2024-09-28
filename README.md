@@ -40,7 +40,7 @@ I love music. 🎶
 * **Metal** (specially, Nu Metal)
 * **Rap**
 
-### Gaming 🎮
+## Gaming 🎮
 So, let's talk about gaming...
 
 I'm a hell of a Doom fan. 
@@ -51,8 +51,29 @@ I also play mods and fangames made by other people...
 
 (And in Doom's case, WADs too.)
 
-### More nerdy stuff 🤓
+## My Translation Services 🫡
+### Logo
+<img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/Logo.png" alt="My translation service" title="Translation Service" style="width:200px"></img>
+
+### Badges w/ Logo
+<img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/Badge_Black.png" alt="My translation service" title="Translation Service" style="width:200px"></img>
+
+<img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/Badge_Green.png" alt="My translation service" title="Translation Service" style="width:200px"></img>
+
+<img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/Badge_Red.png" alt="My translation service" title="Translation Service" style="width:200px"></img>
+
+### Badges w/ 2 Colors (No Logo)
+<img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/Badge_Simple_Dark.png" alt="My translation service" title="Translation Service" style="width:200px"></img>
+
+<img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/Badge_Simple_2colors.png" alt="My translation service" title="Translation Service" style="width:200px"></img>
+
+### Simple Badge
+<img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/Badge_Simple_Yellow.png" alt="My translation service" title="Translation Service" style="width:200px"></img>
+
+## More nerdy stuff 🤓
 In my profile, I might have some cool stuff but [this unnamed entity](https://github.com/norbcodes) also has some good stuff. Check them out too! 
+
+## My Translation Service
 
 <!--
 **MF366-Coding/MF366-Coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
