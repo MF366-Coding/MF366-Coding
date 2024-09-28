@@ -4,7 +4,7 @@ You can call me [MF366](https://github.com/MF366-Coding).
 ## Did you know? 😊
 I provide translation services to Portuguese on my Buy Me A Coffee. Scroll to learn more.
 
-<img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/Badge_Black.png" alt="My translation service" title="Translation Service" style="width:200px"></img> (not actually translated, I only placed the badge here to show it off. There are 4 other badge variations and 1 logo available in this repo.)
+<img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/Badge_Simple_Yellow.png" alt="My translation service" title="Translation Service" style="width:200px"></img> (not actually translated, I only placed the badge here to show it off. There are 4 other badge variations and 1 logo available in this repo.)
 
 ## My Stats 📊
 ![MF366-Coding's Stats](https://github-readme-stats.vercel.app/api?username=MF366-Coding&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
@@ -52,7 +52,7 @@ I also play mods and fangames made by other people...
 (And in Doom's case, WADs too.)
 
 ### More nerdy stuff 🤓
-In my profile, I might have some cool stuff but [this guy](https://github.com/norbcodes) also has some good stuff. Check him out too! 
+In my profile, I might have some cool stuff but [this unnamed entity](https://github.com/norbcodes) also has some good stuff. Check them out too! 
 
 <!--
 **MF366-Coding/MF366-Coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
