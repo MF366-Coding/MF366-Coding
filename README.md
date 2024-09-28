@@ -73,8 +73,6 @@ I also play mods and fangames made by other people...
 ## More nerdy stuff 🤓
 In my profile, I might have some cool stuff but [this fella](https://github.com/norbcodes) also has some good stuff. Check them out too! 
 
-## My Translation Service
-
 <!--
 **MF366-Coding/MF366-Coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
