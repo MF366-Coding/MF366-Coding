@@ -4,7 +4,7 @@ You can call me [MF366](https://github.com/MF366-Coding).
 ## Did you know? 😊
 I provide translation services to Portuguese on my Buy Me A Coffee. Scroll to learn more.
 
-<img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/Badge_Black.png" alt="My translation service" title="Translation Service" style="width:200px"></img>
+<img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/Badge_Black.png" alt="My translation service" title="Translation Service" style="width:200px"></img> (not actually translated, I only placed the badge here to show it off. There are 4 other badge variations and 1 logo available in this repo.)
 
 ## My Stats 📊
 ![MF366-Coding's Stats](https://github-readme-stats.vercel.app/api?username=MF366-Coding&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
