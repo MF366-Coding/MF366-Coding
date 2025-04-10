@@ -9,9 +9,9 @@ I provide translation services to Portuguese on my Buy Me A Coffee. Scroll to le
 ## My Stats 📊
 ![MF366-Coding's Stats](https://github-readme-stats.vercel.app/api?username=MF366-Coding&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
 
-![MF366-Coding's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MF366-Coding&theme=tokyonight&hide_border=false)
+<!-- ![MF366-Coding's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MF366-Coding&theme=tokyonight&hide_border=false) -->
 
-![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MF366-Coding&layout=compact&langs_count=3&theme=tokyonight)
+![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MF366-Coding&layout=compact&langs_count=6&theme=tokyonight)
 
 ## But, really, who am I? 🧐
 * 👨 __Pronouns:__ he/him
