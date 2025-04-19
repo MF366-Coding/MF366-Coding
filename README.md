@@ -15,7 +15,7 @@ I provide translation services to Portuguese on my Buy Me A Coffee. Scroll to le
 
 ## But, really, who am I? 🧐
 * 👨 __Pronouns:__ he/him
-* 👨‍💻 __Programming Languages I Know:__ [Python](https://python.org) and **GML** (GameMaker Studio 2)
+* 👨‍💻 __Programming Languages I Know:__ [Python](https://python.org), **C#**, a bit of **Lua** and **GML** (GameMaker Studio 2)
 * 🤔 __Programming Languages I want to learn:__ **C++**
 * 🔭 **My Main Project:** **WriterClassic** and everything related to it, such as **WPlugZ - CLI**
 * <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/pt.svg" alt="Portugal made Portuguese not Brazil" style="width:20px" title="PORTUGAL!!!!!"></img> **Portuguese**
@@ -37,8 +37,10 @@ You can find me on...
 ## Music 🎵
 I love music. 🎶
 
-* **Metal** (specially, Nu Metal)
-* **Rap**
+* **KoRn**
+* **SOAD**
+* **Slipknot**
+* and many others
 
 ## Gaming 🎮
 So, let's talk about gaming...
