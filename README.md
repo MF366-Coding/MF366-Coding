@@ -11,7 +11,7 @@ I provide translation services to Portuguese on my Buy Me A Coffee. Scroll to le
 
 <!-- ![MF366-Coding's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MF366-Coding&theme=tokyonight&hide_border=false) -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MF366-Coding&layout=compact&langs_count=6&theme=tokyonight&hide=basic,javascript,css,tcl" title="Used Languages" alt="Used languages" style="width:500px"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MF366-Coding&layout=compact&langs_count=6&theme=tokyonight&hide=basic,javascript,css,tcl" title="Used Languages" alt="Used languages" style="width:400px"></img>
 
 ## But, really, who am I? 🧐
 * 👨 __Pronouns:__ he/him
