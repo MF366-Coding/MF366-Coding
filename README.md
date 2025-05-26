@@ -21,8 +21,6 @@ I provide translation services to Portuguese on my Buy Me A Coffee. Scroll to le
 * 🔭 **My Main Project:** **WriterClassic** and everything related to it, such as **WPlugZ - CLI**
 * <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/pt.svg" alt="Portugal made Portuguese not Brazil" style="width:20px" title="PORTUGAL!!!!!"></img> **Portuguese**
 
-[![https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_python.svg]]
-
 ## I'm on Daily Dev... 💻
 <a href="https://app.daily.dev/mf366"><img src="https://api.daily.dev/devcards/v2/psZxWT5u6YaQ67P6ILf73.png?type=default&r=9rn" width="300" alt="MF366's Dev Card"/></a>
 
